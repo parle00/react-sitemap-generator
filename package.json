@@ -1,0 +1,12 @@
+{
+  "name": "react-sitemap-generator",
+  "version": "1.0.0",
+  "description": "Generate sitemap for React CSR apps",
+  "main": "generate-sitemap.js",
+  "scripts": {
+    "build": "echo 'Running build...'",
+    "postbuild": "node generate-sitemap.js"
+  },
+  "author": "Yunus Emre Ciraci",
+  "license": "MIT"
+}

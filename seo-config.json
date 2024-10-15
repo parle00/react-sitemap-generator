@@ -1,0 +1,5 @@
+{
+  "generateSitemap": true,
+  "baseUrl": "https://yourwebsite.com",
+  "routes": ["/", "/about", "/contact", "/services"]
+}
